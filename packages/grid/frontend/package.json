@@ -31,7 +31,7 @@
     "@heroicons/react": "^1.0.4",
     "dayjs": "1.10.5",
     "jwt-decode": "3.1.2",
-    "ky": "^0.28.5",
+    "ky": "^0.33.2",
     "ky-universal": "^0.9.1",
     "lodash.clonedeep": "^4.5.0",
     "lodash.get": "^4.4.2",
