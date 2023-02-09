@@ -29,7 +29,7 @@
     "@fortawesome/react-fontawesome": "^0.1.18",
     "@headlessui/react": "^1.4.1",
     "@heroicons/react": "^1.0.4",
-    "dayjs": "1.10.5",
+    "dayjs": "1.11.7",
     "jwt-decode": "3.1.2",
     "ky": "^0.28.5",
     "ky-universal": "^0.9.1",
