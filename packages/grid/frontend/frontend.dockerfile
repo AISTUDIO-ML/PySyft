@@ -17,7 +17,7 @@ FROM grid-ui-development as build-stage
 RUN yarn build
 RUN yarn export
 
-FROM nginx:stable-alpine as grid-ui-production
+FROM nginx:mainline-alpine as grid-ui-production
 ENV NEXT_PUBLIC_ENVIRONMENT production
 ENV NEXT_PUBLIC_API_URL /api/v1
 ENV NODE_TYPE $NODE_TYPE
