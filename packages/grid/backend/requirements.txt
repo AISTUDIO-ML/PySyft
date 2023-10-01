@@ -10,3 +10,4 @@ python-multipart==0.0.5
 requests==2.28.2
 tenacity==8.1.0
 uvicorn[standard]==0.20.0
+pydantic>=1.10.13 # not directly required, pinned by Snyk to avoid a vulnerability
