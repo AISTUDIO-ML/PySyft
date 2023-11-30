@@ -41,7 +41,7 @@
     "react-animate-height": "^2.0.23",
     "react-dom": "^18.1.0",
     "react-hook-form": "^7.16.2",
-    "react-query": "^3.24.3",
+    "react-query": "^4.0.0",
     "react-table": "^7.7.0",
     "react-tippy": "^1.4.0"
   },
